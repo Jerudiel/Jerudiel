@@ -9,8 +9,8 @@ a través de internet.
 
 # Encuéntrame
 
-Linkedin: www.linkedin.com/in/benito-jerudiel-ortiz-901a0a212
-Twitter: https://twitter.com/jerus58
+*Linkedin: www.linkedin.com/in/benito-jerudiel-ortiz-901a0a212
+*Twitter: https://twitter.com/jerus58
 
 🔨 Aprendiendo: 
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
