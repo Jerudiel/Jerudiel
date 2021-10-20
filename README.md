@@ -3,8 +3,10 @@
 ###  Entusiasta de la programación, de los microcontroladores y del IoT. 
 
 💪🏼 Soy egresado de la carrera de ingenieria en mecatrónica de la Benemérita Universidad Autónoma de Puebla (BUAP). Actualmente formo parte del programa Platzi Master.
+
 🚀 Me gusta el uso de la electrónica y microcontroladores para la solución de problemas, el almacenamiento de información de sensores y control de microcontroladores
 a través de internet.
+
 ⚽ Entre mis hobbies se encuentran: correr, jugar futbol, ver series, programar microcontroladores y escuchar música.
 
 # Encuéntrame
